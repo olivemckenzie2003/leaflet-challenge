@@ -32,8 +32,8 @@ Part One
 
 used https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson link to obtain earthquake data
 
+![Screenshot (1238)](https://user-images.githubusercontent.com/115945473/220160833-13e87cea-7806-425c-94c1-1b8355c52637.png)
 
-![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
 
 
 
@@ -247,6 +247,8 @@ The HTML file contains bootstrap and references to leaflet.css,leaflet.js,style.
 
 
 
+![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
+
 
 
 Part Two 
@@ -321,7 +323,7 @@ function createMap(earthquakes,plates) {
 ![Screenshot (1250)](https://user-images.githubusercontent.com/115945473/220160824-cdb95dde-c56a-4c56-bd88-ee6dd16976c9.png)
 ![Screenshot (1236)](https://user-images.githubusercontent.com/115945473/220160827-54079572-0b73-417d-852d-ee62d6a06dce.png)
 
-![Screenshot (1238)](https://user-images.githubusercontent.com/115945473/220160833-13e87cea-7806-425c-94c1-1b8355c52637.png)
+
 ![Screenshot (1239)](https://user-images.githubusercontent.com/115945473/220160836-04a29918-be6d-4f42-a7e2-daaaf4918973.png)
 ![Screenshot (1240)](https://user-images.githubusercontent.com/115945473/220160838-947d4a5c-609a-4996-a902-fc6fe80ab90d.png)
 ![Screenshot (1241)](https://user-images.githubusercontent.com/115945473/220160841-acbfc942-fa57-4251-9250-77765d37f69d.png)
