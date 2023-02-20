@@ -248,9 +248,6 @@ The HTML file contains bootstrap and references to leaflet.css,leaflet.js,style.
 <script type="text/javascript" src="static/js/logic.js"></script>
 
 
-
-![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
-
 ![Screenshot (1251)](https://user-images.githubusercontent.com/115945473/220165438-37742abe-bf50-45ed-aac4-cb2892d787ba.png)
 
 
