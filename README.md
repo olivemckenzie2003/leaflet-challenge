@@ -32,11 +32,18 @@ Part One
 
 used https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson link to obtain earthquake data
 
-File "logic.js"
+
+![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
+
+
+
+
+Inside file "logic.js"
 
 Method used to import imported JSON data into file "logic.js".
 
 let queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";    
+
 
 Markers are created where the size increases with magnitude ("mag" in JSON file) and color becomes darker with increasing depth which is the third value in the geometry section of the JSON file the first and second value are the Longitude and the Latitude. 
 
@@ -313,7 +320,7 @@ function createMap(earthquakes,plates) {
 
 ![Screenshot (1250)](https://user-images.githubusercontent.com/115945473/220160824-cdb95dde-c56a-4c56-bd88-ee6dd16976c9.png)
 ![Screenshot (1236)](https://user-images.githubusercontent.com/115945473/220160827-54079572-0b73-417d-852d-ee62d6a06dce.png)
-![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
+
 ![Screenshot (1238)](https://user-images.githubusercontent.com/115945473/220160833-13e87cea-7806-425c-94c1-1b8355c52637.png)
 ![Screenshot (1239)](https://user-images.githubusercontent.com/115945473/220160836-04a29918-be6d-4f42-a7e2-daaaf4918973.png)
 ![Screenshot (1240)](https://user-images.githubusercontent.com/115945473/220160838-947d4a5c-609a-4996-a902-fc6fe80ab90d.png)
