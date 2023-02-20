@@ -311,4 +311,22 @@ function createMap(earthquakes,plates) {
 
 
 
+![Screenshot (1250)](https://user-images.githubusercontent.com/115945473/220160824-cdb95dde-c56a-4c56-bd88-ee6dd16976c9.png)
+![Screenshot (1236)](https://user-images.githubusercontent.com/115945473/220160827-54079572-0b73-417d-852d-ee62d6a06dce.png)
+![Screenshot (1237)](https://user-images.githubusercontent.com/115945473/220160829-bc78269d-8698-4b92-aeb1-dfbbbf90ef42.png)
+![Screenshot (1238)](https://user-images.githubusercontent.com/115945473/220160833-13e87cea-7806-425c-94c1-1b8355c52637.png)
+![Screenshot (1239)](https://user-images.githubusercontent.com/115945473/220160836-04a29918-be6d-4f42-a7e2-daaaf4918973.png)
+![Screenshot (1240)](https://user-images.githubusercontent.com/115945473/220160838-947d4a5c-609a-4996-a902-fc6fe80ab90d.png)
+![Screenshot (1241)](https://user-images.githubusercontent.com/115945473/220160841-acbfc942-fa57-4251-9250-77765d37f69d.png)
+![Screenshot (1242)](https://user-images.githubusercontent.com/115945473/220160844-3a6f8533-5709-4b5e-a2a9-9b8c2b2d4203.png)
+![Screenshot (1243)](https://user-images.githubusercontent.com/115945473/220160850-4b6c2988-b4ac-40e7-8826-7dc828452825.png)
+![Screenshot (1244)](https://user-images.githubusercontent.com/115945473/220160855-5e78efd7-01f7-47e4-8f5e-00d006240056.png)
+![Screenshot (1245)](https://user-images.githubusercontent.com/115945473/220160857-aafe68bf-cd9a-45e3-aa1a-3bb9bfd085da.png)
+![Screenshot (1246)](https://user-images.githubusercontent.com/115945473/220160858-4cc78fe1-8122-4988-b76e-0bfbf5dcc593.png)
+![Screenshot (1247)](https://user-images.githubusercontent.com/115945473/220160859-47fa9861-89ca-4ac9-8002-73a19f448ba3.png)
+![Screenshot (1248)](https://user-images.githubusercontent.com/115945473/220160860-0ea2e41a-652e-4c41-9dd6-51fea6de739c.png)
+![Screenshot (1249)](https://user-images.githubusercontent.com/115945473/220160861-f3947c13-4fd7-4da1-944c-27d2415b74ef.png)
+
+
+
 
