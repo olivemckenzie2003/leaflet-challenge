@@ -249,7 +249,7 @@ The HTML file contains bootstrap and references to leaflet.css,leaflet.js,style.
 
 
 ![Screenshot (1251)](https://user-images.githubusercontent.com/115945473/220165438-37742abe-bf50-45ed-aac4-cb2892d787ba.png)
-
+![Screenshot (1254)](https://user-images.githubusercontent.com/115945473/220176950-0f033288-7b54-4073-98ee-a180204ccd6f.png)
 
 Part Two 
 
@@ -317,9 +317,14 @@ function createMap(earthquakes,plates) {
 ![Screenshot (1253)](https://user-images.githubusercontent.com/115945473/220165429-30166ede-ed06-43c9-98ed-63723d742b05.png)
 
 ![Screenshot (1252)](https://user-images.githubusercontent.com/115945473/220165424-210469ef-b7f3-4ee8-a8f8-29370a7a256d.png)
-
+![Screenshot (1258)](https://user-images.githubusercontent.com/115945473/220176912-632adefe-75de-44b3-90fb-87c3bbdb7bc3.png)
 
 //modified code //https://github.com/jonkwiatkowski/Leaflet/blob/main/static/js/logic.js 
+
+
+
+
+
 
 
 
